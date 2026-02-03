@@ -1,0 +1,28 @@
+# Ignore dataset directories (any directory with 'dataset' in its name)
+**/*dataset*/
+**/*dataset*/**
+/data
+/venv
+# Ignore common segmentation/dataset variants
+**/*_seg_dataset/
+**/*_seg_dataset/**
+
+*.pt
+
+/runs
+**/*_previews/
+**/*_previews/**
+
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.avi
+*.AVI
+*.mkv
+*.MKV
+*.webm
+*.WEBM
+*.flv
+*.FLV
+
