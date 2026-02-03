@@ -160,6 +160,8 @@ python inference_yolo.py \
 ## Results 
 
 ![](image_annotated_1.jpg)
+![](image_annotated_2.jpg)
+
 ![](image_annotated.jpg)
 Notes
 
